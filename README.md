@@ -31,7 +31,7 @@ To transform raw HR data into meaningful insights that help understand workforce
 ### Phase 2 – Power BI
 
 - Power Query transformations
-- Data modeling
+- Data modelling
 - DAX measures and calculated columns
 - Interactive dashboards
 - Slicers and navigation
@@ -44,9 +44,8 @@ To transform raw HR data into meaningful insights that help understand workforce
 2. Employee & Department Analysis
 3. Attendance, Leave & Training Analysis
 4. Attrition & Performance Analysis
-5. Compensation Analysis
-6. Insights & Recommendations
-7. Employee Details – Drill-through
+5. Insights & Recommendations
+6.  Employee Details – Drill-through
 
 ## 📈 Key Metrics
 
